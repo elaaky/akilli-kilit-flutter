@@ -26,9 +26,6 @@ Geleneksel anahtar taşıma derdine son vererek, güvenliği teknolojiyle birle�
 - Buzzer (Aktif)
 - Jumper Kablolar ve Breadboard
 
-## 📱 Mobil Uygulama Ekran Görüntüleri
-*(Buraya uygulamanın ekran görüntülerini yükleyip linkini koyabilirsin veya boş bırak)*
-
 ## 🔌 Devre Şeması
 Projenin devre bağlantıları ve pin diyagramı `devre_sema` klasöründe mevcuttur.
 - **Servo:** Pin 12
