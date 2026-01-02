@@ -47,4 +47,4 @@ Projenin devre bağlantıları ve pin diyagramı `devre_sema` klasöründe mevcu
 - **Elanur Akkaya** - Geliştirici
 
 ---
-*Bu proje Robotik Programlama/Bartın Üniversitesi kapsamında geliştirilmiştir.*
+*Bu proje Robotik Programlama /Bartın Üniversitesi kapsamında geliştirilmiştir.*
